@@ -1,0 +1,4 @@
+Flask>=3.0,<4.0
+Flask-Cors>=4.0
+python-dotenv>=1.0
+mysqlclient>=2.2
